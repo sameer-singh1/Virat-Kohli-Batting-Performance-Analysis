@@ -1,0 +1,296 @@
+Match,Innings,Date,M/Inns,Position,VS,Ground,How Dismissed,Runs,BF,SR,runs1,bf1,Avg,sr1
+1,1,8/18/2008,1st,2,Sri Lanka,Rangiri DamBowledulla International Stadium,LBW,12,22,54.55,12,22,12,54.55
+2,2,8/20/2008,2nd,2,Sri Lanka,Rangiri DamBowledulla International Stadium,Caught,37,67,55.22,49,89,24.5,55.06
+3,3,8/24/2008,1st,1,Sri Lanka,R Premadasa Stadium,Run Out,25,38,65.79,74,127,24.67,58.27
+4,4,8/27/2008,1st,1,Sri Lanka,R Premadasa Stadium,Bowled,54,66,81.82,128,193,32,66.32
+5,5,8/29/2008,2nd,1,Sri Lanka,R Premadasa Stadium,LBW,31,46,67.39,159,239,31.8,66.53
+6,6,9/14/2009,1st,7,Sri Lanka,R Premadasa Stadium,Not Out,2*,2,100,161,241,32.2,66.8
+7,7,9/26/2009,2nd,4,Pakistan,SuperSport Park,Caught,16,24,66.67,177,265,29.5,66.79
+8,DNB,9/28/2009,DNB,-,Australia,SuperSport Park,DNB,-,-,-,177,265,29.5,66.79
+9,8,9/30/2009,2nd,4,West Indies,Wanderers Stadium,Not Out,79*,104,75.96,256,369,42.67,69.38
+10,9,10/25/2009,2nd,4,Australia,Reliance Stadium,Caught,30,41,73.17,286,410,40.86,69.76
+11,10,11/2/2009,2nd,3,Australia,PunjaBowled Cricket Association IS Bindra Stadium,Caught,10,16,62.5,296,426,37,69.48
+12,11,12/15/2009,1st,7,Sri Lanka,Madhavrao Scindia Cricket Ground,Bowled,27,19,142.11,323,445,35.89,72.58
+13,12,12/18/2009,1st,4,Sri Lanka,VidarBowledha Cricket Association Stadium,LBW,54,65,83.08,377,510,37.7,73.92
+14,13,12/24/2009,2nd,4,Sri Lanka,Eden Gardens,Caught,107,114,93.86,484,624,44,77.56
+15,DNB,12/27/2009,DNB,-,Sri Lanka,ARun Out Jaitley Stadium,DNB,-,-,-,484,624,44,77.56
+16,14,1/5/2010,1st,3,Sri Lanka,Shere Bangla National Stadium,Caught,9,12,75,493,636,41.08,77.52
+17,15,1/7/2010,2nd,3,Bangladesh,Shere Bangla National Stadium,Caught,91,102,89.22,584,738,44.92,79.13
+18,16,1/10/2010,2nd,3,Sri Lanka,Shere Bangla National Stadium,Not Out,71*,68,104.41,655,806,50.38,81.27
+19,17,1/11/2010,2nd,3,Bangladesh,Shere Bangla National Stadium,Not Out,102*,95,107.37,757,901,58.23,84.02
+20,18,1/13/2010,1st,3,Sri Lanka,Shere Bangla National Stadium,Caught,2,8,25,759,909,54.21,83.5
+21,19,2/21/2010,1st,5,South Africa,Sawai Mansingh Stadium,Caught,31,46,67.39,790,955,52.67,82.72
+22,DNB,2/24/2010,1st,-,South Africa,Captain Roop Singh Stadium,DNB,-,-,-,790,955,52.67,82.72
+23,20,2/27/2010,2nd,3,South Africa,Narendra Modi Stadium,Caught,57,71,80.28,847,1026,52.94,82.55
+24,21,5/28/2010,1st,3,ZimBowledaBowledwe,Queens Sports CluBowled,Run Out,0,0,-,847,1026,49.82,82.55
+25,22,5/30/2010,2nd,3,Sri Lanka,Queens Sports CluBowled,Caught,82,92,89.13,929,1118,51.61,83.09
+26,23,6/3/2010,1st,3,ZimBowledaBowledwe,Harare Sports CluBowled,Caught,18,29,62.07,947,1147,49.84,82.56
+27,24,6/5/2010,1st,3,Sri Lanka,Harare Sports CluBowled,Caught,68,95,71.58,1015,1242,50.75,81.72
+28,25,6/16/2010,2nd,3,Bangladesh,Rangiri DamBowledulla International Stadium,Stump,11,22,50,1026,1264,48.86,81.17
+29,26,6/19/2010,2nd,3,Pakistan,Rangiri DamBowledulla International Stadium,Bowled,18,27,66.67,1044,1291,47.45,80.87
+30,27,6/22/2010,1st,3,Sri Lanka,Rangiri DamBowledulla International Stadium,Caught,10,14,71.43,1054,1305,45.83,80.77
+31,28,6/24/2010,1st,3,Sri Lanka,Rangiri DamBowledulla International Stadium,Caught,28,34,82.35,1082,1339,45.08,80.81
+32,29,8/16/2010,2nd,3,Sri Lanka,Rangiri DamBowledulla International Stadium,Caught,0,3,0,1082,1342,43.28,80.63
+33,30,8/25/2010,1st,3,New Zealand,Rangiri DamBowledulla International Stadium,Caught,8,16,50,1090,1358,41.92,80.27
+34,31,8/28/2010,2nd,3,Sri Lanka,Rangiri DamBowledulla International Stadium,Caught,37,57,64.91,1127,1415,41.74,79.65
+35,32,10/20/2010,2nd,3,Australia,Dr YS Rajasekhara Reddy Cricket Stadium,Caught,118,121,97.52,1245,1536,44.46,81.05
+36,33,11/28/2010,1st,3,New Zealand,Nehru Stadium (Guwahati),Caught,105,104,100.96,1350,1640,46.55,82.32
+37,34,12/1/2010,2nd,3,New Zealand,Sawai Mansingh Stadium,Caught,64,73,87.67,1414,1713,47.13,82.55
+38,35,12/4/2010,2nd,3,New Zealand,Reliance Stadium,Not Out,63*,70,90,1477,1783,49.23,82.84
+39,36,12/7/2010,2nd,3,New Zealand,M Chinnaswamy Stadium,Caught,0,2,0,1477,1785,47.65,82.75
+40,37,12/10/2010,2nd,3,New Zealand,MA ChidamBowledaram Stadium,Caught,2,8,25,1479,1793,46.22,82.49
+41,38,1/12/2011,2nd,3,South Africa,Kingsmead,Caught,54,70,77.14,1533,1863,46.45,82.29
+42,39,1/15/2011,1st,3,South Africa,Wanderers Stadium,Run Out,22,34,64.71,1555,1897,45.74,81.97
+43,40,1/18/2011,2nd,3,South Africa,Newlands,Caught,28,41,68.29,1583,1938,45.23,81.68
+44,41,1/21/2011,2nd,3,South Africa,St George's Park,Not Out,87*,92,94.57,1670,2030,47.71,82.27
+45,42,1/23/2011,2nd,3,South Africa,SuperSport Park,Caught,2,6,33.33,1672,2036,46.44,82.12
+46,43,2/19/2011,1st,4,Bangladesh,Shere Bangla National Stadium,Not Out,100*,83,120.48,1772,2119,49.22,83.62
+47,44,2/27/2011,1st,7,England,M Chinnaswamy Stadium,Bowled,8,5,160,1780,2124,48.11,83.8
+48,45,3/6/2011,2nd,4,Ireland,M Chinnaswamy Stadium,Run Out,34,53,64.15,1814,2177,47.74,83.33
+49,46,3/9/2011,2nd,5,Netherlands,ARun Out Jaitley Stadium,Bowled,12,20,60,1826,2197,46.82,83.11
+50,47,3/12/2011,1st,7,South Africa,VidarBowledha Cricket Association Stadium,Caught,1,3,33.33,1827,2200,45.68,83.05
+51,48,3/20/2011,1st,3,West Indies,MA ChidamBowledaram Stadium,Bowled,59,76,77.63,1886,2276,46,82.86
+52,49,3/24/2011,2nd,4,Australia,Narendra Modi Stadium,Caught,24,33,72.73,1910,2309,45.48,82.72
+53,50,3/30/2011,1st,4,Pakistan,PunjaBowled Cricket Association IS Bindra Stadium,Caught,9,21,42.86,1919,2330,44.63,82.36
+54,51,4/2/2011,2nd,4,Sri Lanka,Wankhede Stadium,Caught,35,49,71.43,1954,2379,44.41,82.14
+55,52,6/6/2011,2nd,3,West Indies,Queen's Park Oval,Caught,2,8,25,1956,2387,43.47,81.94
+56,53,6/8/2011,2nd,3,West Indies,Queen's Park Oval,Caught,81,103,78.64,2037,2490,44.28,81.81
+57,54,6/11/2011,2nd,3,West Indies,Sir Vivian Richards Stadium,LBW,0,1,0,2037,2491,43.34,81.77
+58,55,6/13/2011,2nd,3,West Indies,Sir Vivian Richards Stadium,Stump,22,33,66.67,2059,2524,42.9,81.58
+59,56,6/16/2011,1st,3,West Indies,SaBowledina Park,Run Out,94,104,90.38,2153,2628,43.94,81.93
+60,57,9/3/2011,1st,4,England,Riverside Ground,Bowled,55,73,75.34,2208,2701,44.16,81.75
+61,58,9/6/2011,1st,4,England,The Rose Bowl,Caught,9,9,100,2217,2710,43.47,81.81
+62,59,9/9/2011,1st,4,England,Kennington Oval,Caught,7,18,38.89,2224,2728,42.77,81.52
+63,60,9/11/2011,1st,4,England,Lord's,Caught,16,36,44.44,2240,2764,42.26,81.04
+64,61,9/16/2011,1st,4,England,Sophia Gardens,Hit Wicket,107,93,115.05,2347,2857,43.46,82.15
+65,62,10/14/2011,1st,4,England,Rajiv Gandhi International Stadium,Caught,37,63,58.73,2384,2920,43.35,81.64
+66,63,10/17/2011,2nd,4,England,ARun Out Jaitley Stadium,Not Out,112*,98,114.29,2496,3018,45.38,82.7
+67,64,10/20/2011,2nd,4,England,PunjaBowled Cricket Association IS Bindra Stadium,LBW,35,30,116.67,2531,3048,45.2,83.04
+68,65,10/23/2011,2nd,4,England,Wankhede Stadium,Not Out,86*,99,86.87,2617,3147,46.73,83.16
+69,66,10/25/2011,1st,3,England,Eden Gardens,Bowled,0,5,0,2617,3152,45.91,83.03
+70,67,11/29/2011,2nd,4,West Indies,BaraBowledati Stadium,Bowled,3,6,50,2620,3158,45.17,82.96
+71,68,12/2/2011,2nd,4,West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,Caught,117,123,95.12,2737,3281,46.39,83.42
+72,69,12/5/2011,2nd,4,West Indies,Narendra Modi Stadium,LBW,20,30,66.67,2757,3311,45.95,83.27
+73,70,12/8/2011,1st,6,West Indies,Holkar Cricket Stadium,Not Out,23*,11,209.09,2780,3322,46.33,83.68
+74,71,12/11/2011,1st,5,West Indies,MA ChidamBowledaram Stadium,Caught,80,85,94.12,2860,3407,46.89,83.94
+75,72,2/5/2012,2nd,3,Australia,MelBowledourne Cricket Ground,Caught,31,34,91.18,2891,3441,46.63,84.02
+76,73,2/8/2012,2nd,3,Sri Lanka,WACA Ground,Run Out,77,94,81.91,2968,3535,47.11,83.96
+77,74,2/12/2012,2nd,3,Australia,Adelaide Oval,Caught,18,28,64.29,2986,3563,46.66,83.81
+78,75,2/14/2012,2nd,3,Sri Lanka,Adelaide Oval,LBW,15,25,60,3001,3588,46.17,83.64
+79,76,2/19/2012,2nd,3,Australia,BrisBowledane Cricket Ground,Caught,12,25,48,3013,3613,45.65,83.39
+80,77,2/21/2012,2nd,4,Sri Lanka,BrisBowledane Cricket Ground,Caught,66,83,79.52,3079,3696,45.96,83.31
+81,78,2/26/2012,2nd,4,Australia,Sydney Cricket Ground,Caught,21,27,77.78,3100,3723,45.59,83.27
+82,79,2/28/2012,2nd,4,Sri Lanka,Bellerive Oval,Not Out,133*,86,154.65,3233,3809,47.54,84.88
+83,80,3/13/2012,1st,3,Sri Lanka,Shere Bangla National Stadium,Caught,108,120,90,3341,3929,48.42,85.03
+84,81,3/16/2012,1st,3,Bangladesh,Shere Bangla National Stadium,Bowled,66,82,80.49,3407,4011,48.67,84.94
+85,82,3/18/2012,2nd,3,Pakistan,Shere Bangla National Stadium,Caught,183,148,123.65,3590,4159,50.56,86.32
+86,83,7/21/2012,1st,3,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,Caught,106,113,93.81,3696,4272,51.33,86.52
+87,84,7/24/2012,1st,3,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,Caught,1,5,20,3697,4277,50.64,86.44
+88,85,7/28/2012,2nd,3,Sri Lanka,R Premadasa Stadium,Caught,38,65,58.46,3735,4342,50.47,86.02
+89,86,7/31/2012,2nd,3,Sri Lanka,R Premadasa Stadium,Not Out,128*,119,107.56,3863,4461,52.2,86.59
+90,87,8/4/2012,1st,3,Sri Lanka,Pallekele International Cricket Stadium,LBW,23,35,65.71,3886,4496,51.81,86.43
+91,88,12/30/2012,1st,3,Pakistan,MA ChidamBowledaram Stadium,Bowled,0,5,0,3886,4501,51.13,86.34
+92,89,1/3/2013,2nd,3,Pakistan,Eden Gardens,Caught,6,9,66.67,3892,4510,50.55,86.3
+93,90,1/6/2013,1st,3,Pakistan,ARun Out Jaitley Stadium,Caught,7,17,41.18,3899,4527,49.99,86.13
+94,91,1/11/2013,2nd,3,England,Saurashtra Cricket Association Stadium,Caught,15,22,68.18,3914,4549,49.54,86.04
+95,92,1/15/2013,1st,3,England,Nehru Stadium (Kochi),Caught,37,54,68.52,3951,4603,49.39,85.84
+96,93,1/19/2013,2nd,3,England,JSCA International Stadium Complex,Not Out,77*,79,97.47,4028,4682,50.35,86.03
+97,94,1/23/2013,2nd,3,England,PunjaBowled Cricket Association IS Bindra Stadium,Caught,26,33,78.79,4054,4715,50.05,85.98
+98,95,1/27/2013,1st,3,England,Himachal Pradesh Cricket Association Stadium,Caught,0,1,0,4054,4716,49.44,85.96
+99,96,6/6/2013,1st,3,South Africa,Sophia Gardens,Caught,31,41,75.61,4085,4757,49.22,85.87
+100,97,6/11/2013,2nd,3,West Indies,Kennington Oval,Bowled,22,18,122.22,4107,4775,48.89,86.01
+101,98,6/15/2013,2nd,3,Pakistan,EdgBowledaston,Not Out,22*,27,81.48,4129,4802,49.15,85.99
+102,99,6/20/2013,2nd,3,Sri Lanka,Sophia Gardens,Not Out,58*,64,90.63,4187,4866,49.85,86.05
+103,100,6/23/2013,1st,3,England,EdgBowledaston,Caught,43,34,126.47,4230,4900,49.76,86.33
+104,101,6/30/2013,1st,3,West Indies,SaBowledina Park,Caught,11,21,52.38,4241,4921,49.31,86.18
+105,102,7/2/2013,2nd,4,Sri Lanka,SaBowledina Park,Caught,2,5,40,4243,4926,48.77,86.13
+106,103,7/5/2013,1st,3,West Indies,Queen's Park Oval,Caught,102,83,122.89,4345,5009,49.38,86.74
+107,104,7/9/2013,1st,3,Sri Lanka,Queen's Park Oval,LBW,31,52,59.62,4376,5061,49.17,86.47
+108,105,7/11/2013,2nd,3,Sri Lanka,Queen's Park Oval,Caught,2,5,40,4378,5066,48.64,86.42
+109,106,7/24/2013,2nd,3,ZimBowledaBowledwe,Harare Sports CluBowled,Caught,115,108,106.48,4493,5174,49.37,86.84
+110,107,7/26/2013,1st,3,ZimBowledaBowledwe,Harare Sports CluBowled,Caught,14,18,77.78,4507,5192,48.99,86.81
+111,108,7/28/2013,2nd,3,ZimBowledaBowledwe,Harare Sports CluBowled,Not Out,68*,88,77.27,4575,5280,49.73,86.65
+112,DNB,8/1/2013,2nd,-,ZimBowledaBowledwe,Queens Sports CluBowled,DNB,-,-,-,4575,5280,49.73,86.65
+113,DNB,8/3/2013,2nd,-,ZimBowledaBowledwe,Queens Sports CluBowled,DNB,-,-,-,4575,5280,49.73,86.65
+114,109,10/13/2013,2nd,3,Australia,Maharashtra Cricket Association Stadium,LBW,61,85,71.76,4636,5365,49.85,86.41
+115,110,10/16/2013,2nd,3,Australia,Sawai Mansingh Stadium,Not Out,100*,52,192.31,4736,5417,50.92,87.43
+116,111,10/19/2013,1st,3,Australia,PunjaBowled Cricket Association IS Bindra Stadium,Caught,68,73,93.15,4804,5490,51.11,87.5
+117,DNB,10/23/2013,2nd,-,Australia,JSCA International Stadium Complex,DNB,-,-,-,4804,5490,51.11,87.5
+118,112,10/30/2013,2nd,3,Australia,VidarBowledha Cricket Association Stadium,Not Out,115*,66,174.24,4919,5556,52.33,88.53
+119,113,11/2/2013,1st,3,Australia,M Chinnaswamy Stadium,Run Out,0,3,0,4919,5559,51.78,88.49
+120,114,11/21/2013,2nd,3,West Indies,Nehru Stadium (Kochi),Caught,86,84,102.38,5005,5643,52.14,88.69
+121,115,11/24/2013,1st,3,West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,Caught,99,100,99,5104,5743,52.62,88.87
+122,116,11/27/2013,2nd,3,West Indies,Green Park,Caught,19,18,105.56,5123,5761,52.28,88.93
+123,117,12/5/2013,2nd,3,South Africa,Wanderers Stadium,Caught,31,35,88.57,5154,5796,52.06,88.92
+124,118,12/8/2013,2nd,3,South Africa,Kingsmead,Caught,0,5,0,5154,5801,51.54,88.85
+125,DNB,12/11/2013,DNB,-,South Africa,SuperSport Park,DNB,-,-,-,5154,5801,51.54,88.85
+126,119,1/19/2014,2nd,3,New Zealand,McLean Park,Caught,123,111,110.81,5277,5912,52.25,89.26
+127,120,1/22/2014,2nd,3,New Zealand,Seddon Park,Caught,78,65,120,5355,5977,52.5,89.59
+128,121,1/25/2014,2nd,3,New Zealand,Eden Park,Caught,6,20,30,5361,5997,52.05,89.39
+129,122,1/28/2014,1st,2,New Zealand,Seddon Park,Caught,2,10,20,5363,6007,51.57,89.28
+130,123,1/31/2014,2nd,3,New Zealand,Sky Stadium,Caught,82,78,105.13,5445,6085,51.86,89.48
+131,124,2/26/2014,2nd,3,Bangladesh,Khan ShaheBowled Osman Ali Stadium,Bowled,136,122,111.48,5581,6207,52.65,89.91
+132,125,2/28/2014,1st,3,Sri Lanka,Khan ShaheBowled Osman Ali Stadium,Bowled,48,51,94.12,5629,6258,52.61,89.95
+133,126,3/1/2014,1st,3,Pakistan,Shere Bangla National Stadium,Caught,5,11,45.45,5634,6269,52.17,89.87
+134,DNB,3/5/2014,2nd,-,Afghanistan,Shere Bangla National Stadium,DNB,-,-,-,5634,6269,52.17,89.87
+135,127,8/27/2014,1st,3,England,Sophia Gardens,Caught,0,3,0,5634,6272,51.69,89.83
+136,128,8/30/2014,2nd,3,England,Trent Bridge,Caught,40,50,80,5674,6322,51.58,89.75
+137,129,9/2/2014,2nd,3,England,EdgBowledaston,Not Out,1*,3,33.33,5675,6325,51.59,89.72
+138,130,9/5/2014,2nd,3,England,Headingley,Caught,13,21,61.9,5688,6346,51.24,89.63
+139,131,10/8/2014,2nd,3,West Indies,Nehru Stadium (Kochi),Caught,2,5,40,5690,6351,50.8,89.59
+140,132,10/11/2014,1st,4,West Indies,ARun Out Jaitley Stadium,Caught,62,78,79.49,5752,6429,50.9,89.47
+141,133,10/17/2014,1st,3,West Indies,Himachal Pradesh Cricket Association Stadium,Run Out,127,114,111.4,5879,6543,51.57,89.85
+142,134,11/2/2014,1st,4,Sri Lanka,BaraBowledati Stadium,Caught,22,21,104.76,5901,6564,51.31,89.9
+143,135,11/6/2014,2nd,4,Sri Lanka,Narendra Modi Stadium,Caught,49,44,111.36,5950,6608,51.29,90.04
+144,136,11/9/2014,2nd,4,Sri Lanka,Rajiv Gandhi International Stadium,Caught,53,61,86.89,6003,6669,51.31,90.01
+145,137,11/13/2014,1st,4,Sri Lanka,Eden Gardens,Run Out,66,64,103.13,6069,6733,51.43,90.14
+146,138,11/16/2014,2nd,4,Sri Lanka,JSCA International Stadium Complex,Not Out,139*,126,110.32,6208,6859,52.61,90.51
+147,139,1/18/2015,1st,4,Australia,MelBowledourne Cricket Ground,Caught,9,16,56.25,6217,6875,52.24,90.43
+148,140,1/20/2015,1st,4,England,BrisBowledane Cricket Ground,Caught,4,8,50,6221,6883,51.84,90.38
+149,141,1/26/2015,1st,4,Australia,Sydney Cricket Ground,Not Out,3*,9,33.33,6224,6892,51.87,90.31
+150,142,1/30/2015,1st,3,England,WACA Ground,Caught,8,19,42.11,6232,6911,51.5,90.18
+151,143,2/15/2015,1st,3,Pakistan,Adelaide Oval,Caught,107,126,84.92,6339,7037,51.96,90.08
+152,144,2/22/2015,1st,3,South Africa,MelBowledourne Cricket Ground,Caught,46,60,76.67,6385,7097,51.91,89.97
+153,145,2/28/2015,2nd,3,United AraBowled Emirates,WACA Ground,Not Out,33*,41,80.49,6418,7138,52.18,89.91
+154,146,3/6/2015,2nd,3,West Indies,WACA Ground,Caught,33,36,91.67,6451,7174,52.02,89.92
+155,147,3/10/2015,2nd,3,Ireland,Seddon Park,Not Out,44*,42,104.76,6495,7216,52.38,90.01
+156,148,3/14/2015,2nd,3,ZimBowledaBowledwe,Eden Park,Bowled,38,48,79.17,6533,7264,52.26,89.94
+157,149,3/19/2015,1st,3,Bangladesh,MelBowledourne Cricket Ground,Caught,3,8,37.5,6536,7272,51.87,89.88
+158,150,3/26/2015,2nd,3,Australia,Sydney Cricket Ground,Caught,1,13,7.69,6537,7285,51.47,89.73
+159,151,6/18/2015,2nd,3,Bangladesh,Shere Bangla National Stadium,Caught,1,4,25,6538,7289,51.08,89.7
+160,152,6/21/2015,1st,3,Bangladesh,Shere Bangla National Stadium,LBW,23,27,85.19,6561,7316,50.86,89.68
+161,153,6/24/2015,1st,3,Bangladesh,Shere Bangla National Stadium,Bowled,25,35,71.43,6586,7351,50.66,89.59
+162,154,10/11/2015,2nd,4,South Africa,Green Park,Caught,11,18,61.11,6597,7369,50.36,89.52
+163,155,10/14/2015,1st,4,South Africa,Holkar Cricket Stadium,Run Out,12,18,66.67,6609,7387,50.07,89.47
+164,156,10/18/2015,2nd,3,South Africa,Saurashtra Cricket Association Stadium,Caught,77,99,77.78,6686,7486,50.27,89.31
+165,157,10/22/2015,1st,3,South Africa,MA ChidamBowledaram Stadium,Caught,138,140,98.57,6824,7626,50.93,89.48
+166,158,10/25/2015,2nd,3,South Africa,Wankhede Stadium,Caught,7,6,116.67,6831,7632,50.6,89.5
+167,159,1/12/2016,1st,3,Australia,WACA Ground,Caught,91,97,93.81,6922,7729,50.9,89.56
+168,160,1/15/2016,1st,3,Australia,BrisBowledane Cricket Ground,Run Out,59,67,88.06,6981,7796,50.96,89.55
+169,161,1/17/2016,1st,3,Australia,MelBowledourne Cricket Ground,Caught,117,117,100,7098,7913,51.43,89.7
+170,162,1/20/2016,2nd,3,Australia,Manuka Oval,Caught,106,92,115.22,7204,8005,51.83,89.99
+171,163,1/23/2016,2nd,3,Australia,Sydney Cricket Ground,Caught,8,11,72.73,7212,8016,51.51,89.97
+172,164,10/16/2016,2nd,3,New Zealand,Himachal Pradesh Cricket Association Stadium,Not Out,85*,81,104.94,7297,8097,52.12,90.12
+173,165,10/20/2016,2nd,3,New Zealand,ARun Out Jaitley Stadium,Caught,9,13,69.23,7306,8110,51.82,90.09
+174,166,10/23/2016,2nd,3,New Zealand,PunjaBowled Cricket Association IS Bindra Stadium,Not Out,154*,134,114.93,7460,8244,52.91,90.49
+175,167,10/26/2016,2nd,3,New Zealand,JSCA International Stadium Complex,Caught,45,51,88.24,7505,8295,52.85,90.48
+176,168,10/29/2016,1st,3,New Zealand,Dr YS Rajasekhara Reddy Cricket Stadium,Caught,65,76,85.53,7570,8371,52.94,90.43
+177,169,1/15/2017,2nd,3,England,Maharashtra Cricket Association Stadium,Caught,122,105,116.19,7692,8476,53.42,90.75
+178,170,1/19/2017,1st,3,England,BaraBowledati Stadium,Caught,8,5,160,7700,8481,53.1,90.79
+179,171,1/22/2017,2nd,3,England,Eden Gardens,Caught,55,63,87.3,7755,8544,53.12,90.77
+180,172,6/4/2017,1st,3,Pakistan,EdgBowledaston,Not Out,81*,68,119.12,7836,8612,53.67,90.99
+181,173,6/8/2017,1st,3,Sri Lanka,Kennington Oval,Caught,0,5,0,7836,8617,53.31,90.94
+182,174,6/11/2017,2nd,3,South Africa,Kennington Oval,Not Out,76*,101,75.25,7912,8718,53.82,90.75
+183,175,6/15/2017,2nd,3,Bangladesh,EdgBowledaston,Not Out,96*,78,123.08,8008,8796,54.48,91.04
+184,176,6/18/2017,2nd,3,Pakistan,Kennington Oval,Caught,5,9,55.56,8013,8805,54.14,91.01
+185,177,6/23/2017,1st,3,West Indies,Queen's Park Oval,Not Out,32*,47,68.09,8045,8852,54.36,90.88
+186,178,6/25/2017,1st,3,West Indies,Queen's Park Oval,Caught,87,66,131.82,8132,8918,54.58,91.19
+187,179,6/30/2017,1st,3,West Indies,Sir Vivian Richards Stadium,Caught,11,22,50,8143,8940,54.29,91.09
+188,180,7/2/2017,2nd,3,West Indies,Sir Vivian Richards Stadium,Caught,3,12,25,8146,8952,53.95,91
+189,181,7/6/2017,2nd,3,West Indies,SaBowledina Park,Not Out,111*,115,96.52,8257,9067,54.68,91.07
+190,182,8/20/2017,2nd,3,Sri Lanka,Rangiri DamBowledulla International Stadium,Not Out,82*,70,117.14,8339,9137,55.23,91.27
+191,183,8/24/2017,2nd,5,Sri Lanka,Pallekele International Cricket Stadium,Bowled,4,2,200,8343,9139,54.89,91.29
+192,184,8/27/2017,2nd,3,Sri Lanka,Pallekele International Cricket Stadium,Caught,3,11,27.27,8346,9150,54.55,91.21
+193,185,8/31/2017,1st,3,Sri Lanka,R Premadasa Stadium,Caught,131,96,136.46,8477,9246,55.05,91.68
+194,186,9/3/2017,2nd,3,Sri Lanka,R Premadasa Stadium,Not Out,110*,116,94.83,8587,9362,55.76,91.72
+195,187,9/17/2017,1st,3,Australia,MA ChidamBowledaram Stadium,Caught,0,4,0,8587,9366,55.4,91.68
+196,188,9/21/2017,1st,3,Australia,Eden Gardens,Bowled,92,107,85.98,8679,9473,55.63,91.62
+197,189,9/24/2017,2nd,3,Australia,Holkar Cricket Stadium,Caught,28,35,80,8707,9508,55.46,91.58
+198,190,9/28/2017,2nd,3,Australia,M Chinnaswamy Stadium,Bowled,21,21,100,8728,9529,55.24,91.59
+199,191,10/1/2017,2nd,3,Australia,VidarBowledha Cricket Association Stadium,Caught,39,55,70.91,8767,9584,55.14,91.48
+200,192,10/22/2017,1st,3,New Zealand,Wankhede Stadium,Caught,121,125,96.8,8888,9709,55.55,91.54
+201,193,10/25/2017,2nd,3,New Zealand,Maharashtra Cricket Association Stadium,Caught,29,29,100,8917,9738,55.39,91.57
+202,194,10/29/2017,1st,3,New Zealand,Green Park,Caught,113,106,106.6,9030,9844,55.74,91.73
+203,195,2/1/2018,2nd,3,South Africa,Kingsmead,Caught,112,119,94.12,9142,9963,56.09,91.76
+204,196,2/4/2018,2nd,3,South Africa,SuperSport Park,Not Out,46*,50,92,9188,10013,56.37,91.76
+205,197,2/7/2018,1st,3,South Africa,Newlands,Not Out,160*,159,100.63,9348,10172,57.35,91.9
+206,198,2/10/2018,1st,3,South Africa,Wanderers Stadium,Caught,75,83,90.36,9423,10255,57.46,91.89
+207,199,2/13/2018,1st,3,South Africa,St George's Park,Run Out,36,54,66.67,9459,10309,57.33,91.75
+208,200,2/16/2018,2nd,3,South Africa,SuperSport Park,Not Out,129*,96,134.38,9588,10405,58.11,92.15
+209,201,7/12/2018,2nd,3,England,Trent Bridge,Stump,75,82,91.46,9663,10487,58.21,92.14
+210,202,7/14/2018,2nd,3,England,Lord's,LBW,45,56,80.36,9708,10543,58.13,92.08
+211,203,7/17/2018,1st,3,England,Headingley,Bowled,71,72,98.61,9779,10615,58.21,92.12
+212,204,10/21/2018,2nd,3,West Indies,Barsapara Cricket Stadium,Stump,140,107,130.84,9919,10722,58.69,92.51
+213,205,10/24/2018,1st,3,West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,Not Out,157*,129,121.71,10076,10851,59.62,92.86
+214,206,10/27/2018,2nd,3,West Indies,Maharashtra Cricket Association Stadium,Bowled,107,119,89.92,10183,10970,59.9,92.83
+215,207,10/29/2018,1st,3,West Indies,BraBowledourne Stadium,Caught,16,17,94.12,10199,10987,59.64,92.83
+216,208,11/1/2018,2nd,3,West Indies,Greenfield International Stadium,Not Out,33*,29,113.79,10232,11016,59.84,92.88
+217,209,1/12/2019,2nd,3,Australia,Sydney Cricket Ground,Caught,3,8,37.5,10235,11024,59.51,92.84
+218,210,1/15/2019,2nd,3,Australia,Adelaide Oval,Caught,104,112,92.86,10339,11136,59.76,92.84
+219,211,1/18/2019,2nd,3,Australia,MelBowledourne Cricket Ground,Caught,46,62,74.19,10385,11198,59.68,92.74
+220,212,1/23/2019,2nd,3,New Zealand,McLean Park,Caught,45,59,76.27,10430,11257,59.6,92.65
+221,213,1/26/2019,1st,3,New Zealand,Bay Oval,Caught,43,45,95.56,10473,11302,59.51,92.67
+222,214,1/28/2019,2nd,3,New Zealand,Bay Oval,Caught,60,74,81.08,10533,11376,59.51,92.59
+223,215,3/2/2019,2nd,3,Australia,Rajiv Gandhi International Stadium,LBW,44,45,97.78,10577,11421,59.42,92.61
+224,216,3/5/2019,1st,3,Australia,VidarBowledha Cricket Association Stadium,Caught,116,120,96.67,10693,11541,59.74,92.65
+225,217,3/8/2019,2nd,3,Australia,JSCA International Stadium Complex,Bowled,123,95,129.47,10816,11636,60.09,92.95
+226,218,3/10/2019,1st,4,Australia,PunjaBowled Cricket Association IS Bindra Stadium,Caught,7,6,116.67,10823,11642,59.8,92.97
+227,219,3/13/2019,2nd,3,Australia,ARun Out Jaitley Stadium,Caught,20,22,90.91,10843,11664,59.58,92.96
+228,220,6/5/2019,2nd,3,South Africa,The Rose Bowl,Caught,18,34,52.94,10861,11698,59.35,92.84
+229,221,6/9/2019,1st,3,Australia,Kennington Oval,Caught,82,77,106.49,10943,11775,59.47,92.93
+230,222,6/16/2019,1st,3,Pakistan,Old Trafford,Caught,77,65,118.46,11020,11840,59.57,93.07
+231,223,6/22/2019,1st,3,Afghanistan,The Rose Bowl,Caught,67,63,106.35,11087,11903,59.61,93.14
+232,224,6/27/2019,1st,3,West Indies,Old Trafford,Caught,72,82,87.8,11159,11985,59.67,93.11
+233,225,6/30/2019,2nd,3,England,EdgBowledaston,Caught,66,76,86.84,11225,12061,59.71,93.07
+234,226,7/2/2019,1st,3,Bangladesh,EdgBowledaston,Caught,26,27,96.3,11251,12088,59.53,93.08
+235,227,7/6/2019,2nd,3,Sri Lanka,Headingley,Not Out,34*,41,82.93,11285,12129,59.71,93.04
+236,228,7/9/2019,2nd,3,New Zealand,Old Trafford,LBW,1,6,16.67,11286,12135,59.4,93
+237,DNB,8/8/2019,DNB,-,West Indies,Providence Stadium,DNB,-,-,-,11286,12135,59.4,93
+238,229,8/11/2019,1st,3,West Indies,Queen's Park Oval,Caught,120,125,96,11406,12260,59.72,93.03
+239,230,8/14/2019,2nd,3,West Indies,Queen's Park Oval,Not Out,114*,99,115.15,11520,12359,60.31,93.21
+240,231,12/15/2019,1st,3,West Indies,MA ChidamBowledaram Stadium,Bowled,4,4,100,11524,12363,60.02,93.21
+241,232,12/18/2019,1st,3,West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,Caught,0,1,0,11524,12364,59.71,93.21
+242,233,12/22/2019,2nd,3,West Indies,BaraBowledati Stadium,Bowled,85,81,104.94,11609,12445,59.84,93.28
+243,234,1/14/2020,1st,4,Australia,Wankhede Stadium,Caught,16,14,114.29,11625,12459,59.62,93.31
+244,235,1/17/2020,1st,3,Australia,Saurashtra Cricket Association Stadium,Caught,78,76,102.63,11703,12535,59.71,93.36
+245,236,1/19/2020,2nd,3,Australia,M Chinnaswamy Stadium,Bowled,89,91,97.8,11792,12626,59.86,93.39
+246,237,2/5/2020,1st,3,New Zealand,Seddon Park,Bowled,51,63,80.95,11843,12689,59.81,93.33
+247,238,2/8/2020,2nd,3,New Zealand,Eden Park,Bowled,15,25,60,11858,12714,59.59,93.27
+248,239,2/11/2020,1st,3,New Zealand,Bay Oval,Caught,9,12,75,11867,12726,59.34,93.25
+249,240,11/27/2020,2nd,3,Australia,Sydney Cricket Ground,Caught,21,21,100,11888,12747,59.14,93.26
+250,241,11/29/2020,2nd,3,Australia,Sydney Cricket Ground,Caught,89,87,102.3,11977,12834,59.29,93.32
+251,242,12/2/2020,1st,3,Australia,Manuka Oval,Caught,63,78,80.77,12040,12912,59.31,93.25
+252,243,3/23/2021,1st,3,England,Maharashtra Cricket Association Stadium,Caught,56,60,93.33,12096,12972,59.29,93.25
+253,244,3/26/2021,1st,3,England,Maharashtra Cricket Association Stadium,Caught,66,79,83.54,12162,13051,59.33,93.19
+254,245,3/28/2021,1st,3,England,Maharashtra Cricket Association Stadium,Bowled,7,10,70,12169,13061,59.07,93.17
+255,246,1/19/2022,2nd,3,South Africa,Boland Park,Caught,51,63,80.95,12220,13124,59.03,93.11
+256,247,1/21/2022,1st,3,South Africa,Boland Park,Caught,0,5,0,12220,13129,58.75,93.08
+257,248,1/23/2022,2nd,3,South Africa,Newlands,Caught,65,84,77.38,12285,13213,58.78,92.98
+258,249,2/6/2022,2nd,3,West Indies,Narendra Modi Stadium,Caught,8,4,200,12293,13217,58.54,93.01
+259,250,2/9/2022,1st,3,West Indies,Narendra Modi Stadium,Caught,18,30,60,12311,13247,58.35,92.93
+260,251,2/11/2022,1st,3,West Indies,Narendra Modi Stadium,Caught,0,2,0,12311,13249,58.07,92.92
+261,252,7/14/2022,2nd,3,England,Lord's,Caught,16,25,64,12327,13274,57.87,92.87
+262,253,7/17/2022,2nd,3,England,Old Trafford,Caught,17,22,77.27,12344,13296,57.68,92.84
+263,254,12/4/2022,1st,3,Bangladesh,Shere Bangla National Stadium,Caught,9,15,60,12353,13311,57.46,92.8
+264,255,12/7/2022,2nd,1,Bangladesh,Shere Bangla National Stadium,Bowled,5,6,83.33,12358,13317,57.21,92.8
+265,256,12/10/2022,1st,3,Bangladesh,Zahur Ahmed Chowdhury Stadium,Caught,113,91,124.18,12471,13408,57.47,93.01
+266,257,1/10/2023,1st,3,Sri Lanka,Barsapara Cricket Stadium,Caught,113,87,129.89,12584,13495,57.72,93.25
+267,258,1/12/2023,2nd,3,Sri Lanka,Eden Gardens,Bowled,4,9,44.44,12588,13504,57.48,93.22
+268,259,1/15/2023,1st,3,Sri Lanka,Greenfield International Stadium,Not Out,166*,110,150.91,12754,13614,58.24,93.68
+269,260,1/18/2023,1st,3,New Zealand,Rajiv Gandhi International Stadium,Bowled,8,10,80,12762,13624,58.01,93.67
+270,261,1/21/2023,2nd,3,New Zealand,Shaheed Veer Narayan Sing International Stadium,Stump,11,9,122.22,12773,13633,57.8,93.69
+271,262,1/24/2023,1st,3,New Zealand,Holkar Cricket Stadium,Caught,36,27,133.33,12809,13660,57.7,93.77
+272,263,3/17/2023,2nd,3,Australia,Wankhede Stadium,LBW,4,9,44.44,12813,13669,57.46,93.74
+273,264,3/19/2023,1st,3,Australia,Dr YS Rajasekhara Reddy Cricket Stadium,LBW,31,35,88.57,12844,13704,57.34,93.72
+274,265,3/22/2023,2nd,3,Australia,MA ChidamBowledaram Stadium,Caught,54,72,75,12898,13776,57.32,93.63
+275,DNB,7/27/2023,2nd,-,West Indies,Kensington Oval,DNB,-,-,-,12898,13776,57.32,93.63
+276,266,9/2/2023,1st,3,Pakistan,Pallekele International Cricket Stadium,Bowled,4,7,57.14,12902,13783,57.09,93.61
+277,DNB,9/4/2023,2nd,-,Nepal,Pallekele International Cricket Stadium,DNB,-,-,-,12902,13783,57.09,93.61
+278,267,9/10/2023,1st,3,Pakistan,R Premadasa Stadium,Not Out,122*,94,129.79,13024,13877,57.63,93.85
+279,268,9/12/2023,1st,3,Sri Lanka,R Premadasa Stadium,Caught,3,12,25,13027,13889,57.39,93.79
+280,DNB,9/17/2023,2nd,-,Sri Lanka,R Premadasa Stadium,DNB,-,-,-,13027,13889,57.39,93.79
+281,269,9/27/2023,2nd,3,Australia,Saurashtra Cricket Association Stadium,Caught,56,61,91.8,13083,13950,57.38,93.78
+282,270,10/8/2023,2nd,3,Australia,MA ChidamBowledaram Stadium,Caught,85,116,73.28,13168,14066,57.5,93.62
+283,271,10/11/2023,2nd,3,Afghanistan,ARun Out Jaitley Stadium,Not Out,55*,56,98.21,13223,14122,57.74,93.63
+284,272,10/14/2023,2nd,3,Pakistan,Narendra Modi Stadium,Caught,16,18,88.89,13239,14140,57.56,93.63
+285,273,10/19/2023,2nd,3,Bangladesh,Maharashtra Cricket Association Stadium,Not Out,103*,97,106.19,13342,14237,58.01,93.71
+286,274,10/22/2023,2nd,3,New Zealand,Himachal Pradesh Cricket Association Stadium,Caught,95,104,91.35,13437,14341,58.17,93.7
+287,275,10/29/2023,1st,3,England,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Caught,0,9,0,13437,14350,57.92,93.64
+288,276,11/2/2023,1st,3,Sri Lanka,Wankhede Stadium,Caught,88,94,93.62,13525,14444,58.05,93.64
+289,277,11/5/2023,1st,3,South Africa,Eden Gardens,Not Out,101*,121,83.47,13626,14565,58.48,93.55
+290,278,11/12/2023,1st,3,Netherlands,M Chinnaswamy Stadium,Bowled,51,56,91.07,13677,14621,58.45,93.54
+291,279,11/15/2023,1st,3,New Zealand,Wankhede Stadium,Caught,117,113,103.54,13794,14734,58.7,93.62
+292,280,11/19/2023,1st,3,Australia,Narendra Modi Stadium,Bowled,54,63,85.71,13848,14797,58.68,93.59
+293,281,8/2/2024,2nd,3,Sri Lanka,R Premadasa Stadium,LBW,24,32,75,13872,14829,58.53,93.55
+294,282,8/4/2024,2nd,3,Sri Lanka,R Premadasa Stadium,LBW,14,19,73.68,13886,14848,58.34,93.52
+295,283,8/7/2024,2nd,3,Sri Lanka,R Premadasa Stadium,LBW,20,18,111.11,13906,14866,58.18,93.54
